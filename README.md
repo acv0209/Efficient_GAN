@@ -1,1 +1,0 @@
-# Efficient_GAN
